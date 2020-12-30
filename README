@@ -1,4 +1,4 @@
-Go package for use with the Monero crypto-currency.
+Go package for use with the Equilibria crypto-currency.
 
 Not much has been implemented so far, but you can view
 the documentation at http://godoc.org/github.com/ehmry/monero
